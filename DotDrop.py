@@ -1,14 +1,11 @@
-from LogIt import LogIt
+from class_DotDrop import DotDrop
 
 
 def main():
 
     VERSION = 'dev 1.0.0'
 
-
-
-    log = LogIt()
-
+    dotdrop = DotDrop()
 
 if __name__ == '__main__':
     main()
